@@ -1,5 +1,5 @@
 body{
-	background-image: url(mycode/Front/QJ6231372770.jpg) ;
+	background-image: url(Front/QJ6231372770.jpg) ;
 	background-repeat:no-repeat;
 	/*background-attachment属性设置背景图像是否固定或者随着页面的其余部分滚动*/
 	background-attachment:fixed;
