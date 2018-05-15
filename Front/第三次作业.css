@@ -1,0 +1,66 @@
+body{
+	background-image: url(../img/QJ6231372770.jpg) ;
+	background-repeat:no-repeat;
+	/*background-attachment属性设置背景图像是否固定或者随着页面的其余部分滚动*/
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+
+#resumecenter{
+	width:500px;
+    height: 500px;
+    position: relative;
+    margin:0 auto;
+    text-align: center;
+}
+
+#myphoto{
+	width:200px;
+	height:150px;
+	border:5px solid white;
+	border-radius: 50%;
+	}
+	
+ h1{
+	text-align:center;
+	color:cadetblue;
+}
+
+h2{
+	text-shadow: 5px 5px 5px #FFFFE0;
+    color:#00FFFF;
+    display: block;
+    margin-top:0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    font-size: 3.5em;
+}
+
+p{
+    color: #aee2d9;
+    font-size:1.2em;
+}
+
+h3{
+	display: block;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    font-size: 1.25em; 
+    color:aquamarine;
+}
+
+li{
+	list-style-type:none;
+}
+
+ul{
+	font-size:1.2em;
+	color:#F5F5F5;
+	text-align:left;
+	letter-spacing:0.5em;
+}
